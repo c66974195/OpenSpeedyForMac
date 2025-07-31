@@ -1,0 +1,2 @@
+# OpenSpeedyForMac
+OpenSpeedy  mac版
